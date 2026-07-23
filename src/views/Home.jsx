@@ -73,7 +73,7 @@ const Home = ({ setCantidad }) => {
 
       {/* BANNER */}
       <section className="bg-gradient-to-r from-emerald-800 to-teal-900 text-white rounded-2xl p-6 shadow-sm mb-8 text-left">
-        <h2 className="text-2xl font-bold mb-1">Sabores auténticos de Oxapampa</h2>
+        <h2 className="text-2xl font-bold mb-1">Sabores auténticos de Oxita</h2>
         <p className="text-sm text-emerald-100 mb-4">Directo del productor artesanal a tu mesa de manera sostenible.</p>
         <button className="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-semibold py-2 px-4 rounded-xl transition-colors shadow-sm">
           Explorar Colección
